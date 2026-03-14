@@ -1,0 +1,9 @@
+name: StarForce
+version: '1.0'
+main: me.vladimir.starForce.StarForce
+api-version: '1.21'
+commands:
+  star:
+    description: S T A R
+  scroll:
+    description: Scroll
